@@ -1,3 +1,3 @@
-# Mi primera pagina
+# PARCIAL I
 
-Primera pagina de la clase 
+Parcial del primer corte 
