@@ -1,3 +1,3 @@
 # PARCIAL I
 
-Parcial del primer corte 
+Esteban Cardona Gonzalez
